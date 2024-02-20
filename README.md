@@ -1,2 +1,2 @@
 Il faut me lire avant de commencer à utiliser ce repo.
-Nous venons de créer une nouvelle branch "autom"
+Nous venons de créer une nouvelle branch "autom"git status
