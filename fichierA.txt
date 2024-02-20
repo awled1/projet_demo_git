@@ -1,6 +1,7 @@
-Bonjour Madame, Monsieur,
-
-J'apprends actuellement les commandes Git à l'ENI.
-
-Cordialement,
-M. Touchard
+One 
+Two
+Three
+Four
+Five
+yellow
+red
